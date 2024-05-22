@@ -1,0 +1,14 @@
+[project]
+name = "dtaicomfyvariables"
+description = "Nodes: String, Int, Float, Short String, CLIP Text Encode (With Variables), String Format, Short String Format. This extension introduces quality of life improvements by providing variable nodes and shared global variables."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/yolanother/DTAIComfyVariables"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "DTAIComfyVariables"
+Icon = ""
